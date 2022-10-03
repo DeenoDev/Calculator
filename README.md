@@ -1,2 +1,2 @@
 # Calculator
-Create calculator using HTML, CSS and Javascript.
+Create calculator using HTML, Tailwind CSS and Javascript.
